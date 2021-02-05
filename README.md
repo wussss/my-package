@@ -1,4 +1,4 @@
-##多端适配的电子商城
+## 实现axios库
 
 > 技术栈：TypeScript library starter
 
@@ -6,7 +6,7 @@
 
 ### 功能列表
 
-- [] 首页
+- [] 发送请求
 
 ### 目录结构
 
@@ -20,6 +20,6 @@
     ├── rollup.config.ts // rollup 配置文件
     ├── src // 源码目录
     ├── test // 测试目录
-    ├── tools // 发布到 GitHup pages 以及 发布到 npm 的一些配置脚本工具
+    ├── tools // 发布到 GitHup pages,发布到 npm 的一些配置脚本工具
     ├── tsconfig.json // TypeScript 编译配置文件
     └── tslint.json // TypeScript lint 文件
